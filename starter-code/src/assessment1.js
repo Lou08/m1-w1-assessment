@@ -110,20 +110,21 @@ function doesWordExist(wordsArr, word) {
 // Finding the first non-duplicate (non-repeating) word in an array
 function findUnique(wordsArr) {
 
-  let noDuplicate =[];
+//   let noDuplicate =[];
 
-for (i=0;i<string.length;i++){
-if(string[i]!=noDuplicate){
+// for (i=0;i<string.length;i++){
+// if(string[i]!=noDuplicate){
 
-  noDuplicate=string[i];
-}
-else{
-  return noDuplicate;
-}
+//   noDuplicate=string[i];
+// }
+// else{
+//   return noDuplicate;
+// }
 
-}
-  }
+// }
+//   }
   
+// }
 }
 
 
